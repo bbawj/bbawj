@@ -1,1 +1,2 @@
+[![bbawj's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbawj)](https://github.com/anuraghazra/github-readme-stats)
 
